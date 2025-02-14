@@ -1,3 +1,3 @@
 # Revenant - Localization
-- csv 데이터를 이용한 로컬라이제이션
-- OrdinInspector을 활용하여 EditorTool 작업
+- 기존 사용하던 DB 데이터를 CSV 데이터로 변경
+- CSV 데이터를 이용하여 게임 현지화
